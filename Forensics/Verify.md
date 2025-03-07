@@ -343,6 +343,7 @@ bf45c53f6b1544e75f6cbcc2f7af43b419639802ff13bf985b0bfe09c1ffa5e8  files/zNtZNpTg
 582c5612f897614bf196d23001fe6bdf164dd456de1ebc30fe70e4b88d6ac154  files/zUmtlpHw
 9e35308b50fc97b8ee3181c5213a3f1e2526fda5a4fa2bbeeaf21e62e08f5652  files/zjK7vU2n
 02992978dd1e83db4b24ecb2c9b73ee1e706e468f1639fb84cf1c82bbc081b95  files/zlkIRSOv
+
 ctf-player@pico-chall$ `sha256sum files/* | grep "467a10447deb3d4e17634cacc2a68ba6c2bb62a6637dad9145ea673bf0be5e02"`
 
 `467a10447deb3d4e17634cacc2a68ba6c2bb62a6637dad9145ea673bf0be5e02  files/c6c8b911`
